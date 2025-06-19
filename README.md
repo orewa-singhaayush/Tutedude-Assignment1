@@ -56,9 +56,9 @@ Hello, Joey Tribbiani! Welcome to the Python course!
 
 ```
 📁 BasicPythonAssignment
-├── task1_math_operations.py
-├── task2_greeting.py
-└── README.md
+├── README.md
+├── task2.py
+└── task1.py
 ```
 
 ---
